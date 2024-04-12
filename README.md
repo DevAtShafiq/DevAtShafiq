@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm shafiqul</h1>
+<h1 align="center">Hi 👋, I'm Shafiqul</h1>
 <h3 align="center">A passionate backend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -10,9 +10,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DevAtShafiq](https://github.com/DevAtShafiq)
 
-- 💬 Ask me about **Sql,Mysql, bootstrap,HTML5,CSS3**
+- 💬 Ask me about **Sql,Mysql, Bootstrap,HTML5,CSS3**
 
-- 📫 How to reach me **shafiq@abrodia.com**
+- 📫 How to reach me **shopiq50@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
