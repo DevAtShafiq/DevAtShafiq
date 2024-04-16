@@ -11,6 +11,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/DevAtShafiq](https://github.com/DevAtShafiq)
 
 - 💬 Ask me about **Sql,Mysql, Bootstrap,HTML5,CSS3**
+- **Korean Level Topik 5 (Equivalent)**
+- **English Fluent**
 
 - 📫 How to reach me **shopiq50@gmail.com**
 
